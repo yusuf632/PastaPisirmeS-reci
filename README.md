@@ -1,4 +1,4 @@
-🎂 Proje Tanımı
+🎂 Proje Tanımı (Murat Yücedağ tarafından öğrendim)
 
 Bu proje, C# Windows Forms ile geliştirilmiş eğlenceli bir Pasta Pişirme Süreci'dir. Kullanıcılar:
 
